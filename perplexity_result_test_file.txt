@@ -1,0 +1,11 @@
+
+
+Question 3.3.5 Following are the results of perplexities calculated for each of the three langugage models - english, spanish and german 
+
+The perplexity for english for test file is 9.08976036231
+The perplexity for spanish for test file is 22.9409380865
+The perplexity for german  for test file is 23.3176775109
+
+
+ The detected language for test file is English
+
